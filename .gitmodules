@@ -1,0 +1,15 @@
+[submodule "WiFiSSLClient"]
+	path = WiFiSSLClient
+	url = https://github.com/peddamat/WiFiSSLClient.git
+[submodule "AWS_IoT_WiFi"]
+	path = AWS_IoT_WiFi
+	url = https://github.com/peddamat/AWS_IoT_WiFi.git
+[submodule "CheckWifi101FirmwareVersion"]
+	path = CheckWifi101FirmwareVersion
+	url = https://github.com/peddamat/CheckWifi101FirmwareVersion.git
+[submodule "FirmwareUpdater"]
+	path = FirmwareUpdater
+	url = https://github.com/peddamat/FirmwareUpdater.git
+[submodule "SerialBridge"]
+	path = SerialBridge
+	url = https://github.com/peddamat/SerialBridge.git
